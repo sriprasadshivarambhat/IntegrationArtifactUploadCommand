@@ -1,6 +1,6 @@
 steps:
   integrationArtifactUpload:
-    cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
+    cpiApiServiceKeyCredentialsId: CPI_OAUTH_CRED
     integrationFlowId: flow4
     integrationFlowName: flow4
     packageId: CICD
