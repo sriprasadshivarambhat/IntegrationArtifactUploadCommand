@@ -1,6 +1,6 @@
 steps:
   integrationArtifactUpload:
-    cpiApiServiceKeyCredentialsId: CPI_OAUTH_CRED
+    cpiApiServiceKeyCredentialsId: CPI_ServiceKey
     integrationFlowId: flow4
     integrationFlowName: flow4
     packageId: CICD
